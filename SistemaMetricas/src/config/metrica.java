@@ -1,4 +1,4 @@
-package tipo;
+package config;
 
 public class metrica {
 
